@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/homework-React/static/css/main.2b46e5e3.css",
+    "main.js": "/homework-React/static/js/main.4567d60e.js",
+    "static/media/Bookshop.jpeg": "/homework-React/static/media/Bookshop.ff0f003fb3d9c87a09f9.jpeg",
+    "static/media/Delete.svg": "/homework-React/static/media/Delete.ffe1958cccc37382255cad48e42b7de2.svg",
+    "index.html": "/homework-React/index.html",
+    "static/media/Check.svg": "/homework-React/static/media/Check.507cda57032fe850d918cb50d97409aa.svg",
+    "main.2b46e5e3.css.map": "/homework-React/static/css/main.2b46e5e3.css.map",
+    "main.4567d60e.js.map": "/homework-React/static/js/main.4567d60e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b46e5e3.css",
+    "static/js/main.4567d60e.js"
+  ]
+}
