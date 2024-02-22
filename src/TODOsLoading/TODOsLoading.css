@@ -1,4 +1,4 @@
-.contain {
+/* .contain {
     padding: 50px;
     position: relative;
     display: flex;
@@ -28,7 +28,7 @@
         {
             transform: rotate(2000deg);
         }
-}
+} */
 
 /* 
 
@@ -114,7 +114,7 @@
     }
 }  */
 
- /* .container{
+ .container{
 
     position: relative;
     display: flex;
@@ -186,4 +186,4 @@
     background-position: 100% 50%; }
 100% {
     background-position: 0% 50%; }
-}  */
+} 
