@@ -13,14 +13,14 @@ function  TODOsLoading() {
   //    }
   //  }, 20)
 return(
-  // <div className='container'>
-  //   <span className='Loading-completeIcon'></span>
-  //   <span className='Loading-text'></span>
-  //   <span className='Loading-deleteIcon'></span>
-  // </div>
+  <div className='container'>
+    <span className='Loading-completeIcon'></span>
+    <span className='Loading-text'></span>
+    <span className='Loading-deleteIcon'></span>
+  </div>
 
-  <div className='contain'>
-    <span className = 'TODOsLoading'></span> 
+  // <div className='contain'>
+  //   <span className = 'TODOsLoading'></span> 
       
        {/* <div className='inner'></div>
   //       <div className='number'>0%</div>
@@ -32,7 +32,7 @@ return(
   //           <div className='progress'></div>
   //         </div>
   //     </div> */}
-      </div>  
+      // </div>  
     );
    }
   export { TODOsLoading };
